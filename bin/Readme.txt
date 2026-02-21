@@ -10,7 +10,7 @@ lists) with variable result ~10-50%. Application it is compatible with Windows X
 higher operating systems, but some general features available only since Windows Vista.
 
 System requirements:
-- Windows 7, 8, 8.1, 10, 11 32-bit/64-bit/ARM64
+- Windows 7, 8, 8.1, 10, 11 64-bit/ARM64
 - An SSE2-capable CPU
 
 To activate portable mode, create "memreduct.ini" in application folder, or move it from "%APPDATA%\Henry++\Mem Reduct".
@@ -18,4 +18,4 @@ To activate portable mode, create "memreduct.ini" in application folder, or move
 Website: https://github.com/henrypp
 Support: sforce5@mail.ru
 
-(c) 2011-2025 Henry++
+(c) 2011-2026 Henry++
