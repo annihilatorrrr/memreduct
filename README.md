@@ -18,10 +18,7 @@
 Lightweight real-time memory management application to monitor
 and clean system memory on your computer.
 
-The program used undocumented internal system features (Native API) to clear
-system cache (system working set, working set, standby page lists, modified page
-lists) with variable result ~10-50%. Application it is compatible with Windows XP SP3 and
-higher operating systems, but some general features available only since Windows Vista.
+The program used undocumented internal system features (Native API) to clear system cache (system working set, working set, standby page lists, modified page lists) with variable result ~10-50%. Application it is compatible with <s>Windows XP SP3</s> Windows 7 SP1 and higher operating systems.
 
 You can download either the installer or portable version. For correct working you are require administrator rights.
 
